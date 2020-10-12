@@ -12,11 +12,17 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+
 [params]
     author = "Daniel Santil"
     description = "Daniel Santil's personal website"
     keywords = "developer,personal"
-    info = "software developer... and guitarist, but that's another story"
+    info = "software engineer... and guitarist, but that's another story"
     avatarurl = "images/avatar.jpg"
     #gravatar = "danielsantilh@gmail.com"
     #footercontent = "Enter a text here."
@@ -62,18 +68,20 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-linkedin"
     weight = 1
     url = "https://www.linkedin.com/in/danielsantil/"
+    target = "blank"
 [[params.social]]
     name = "GitHub"
     icon = "fab fa-github"
     weight = 2
     url = "https://github.com/danielsantil/"
+    target = "blank"
 
 [[menus.main]]
     name = "About"
     url = "about"
 [[menus.main]]
-    name = "Projects"
-    url = "projects"
+    name = "Resume"
+    url = "resume"
 [[menus.main]]
     name = "Contact"
     url = "contact"
