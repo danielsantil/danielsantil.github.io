@@ -12,6 +12,8 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+googleAnalytics = "UA-180668429-1"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -78,10 +80,13 @@ pygmentscodefencesguesssyntax = true
 
 [[menus.main]]
     name = "About"
+    weight = 1
     url = "about"
 [[menus.main]]
     name = "Resume"
+    weight = 2
     url = "resume"
 [[menus.main]]
     name = "Contact"
+    weight = 3
     url = "contact"
