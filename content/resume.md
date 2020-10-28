@@ -116,7 +116,7 @@ slug: "resume"
     <code>2013 - 2019</code>
   </div>
   <div style="display: inline-block; width: 65%; text-align: left; font-weight: bold; float: left;">
-    Bachelor's Degree, Systems Engineering
+    B.S. in Computer Science
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
   	Pontificia Universidad Catolica Madre y Maestra

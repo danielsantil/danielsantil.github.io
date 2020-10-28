@@ -11,13 +11,13 @@ I have 5+ years working as a software engineer, mainly as a backend developer, a
 <br/>
 That being said, I still lean towards backend development, I guess I prefer being in the shadows. :)
 
-Well, let me break this down: Much likely I won't know EVERYTHING about a specific tool, framework, language, etc., but I always find myself reading about best practices, improving my code base, trying to keep it clean and readable, assisting teammates.
+Well, let me break this down; Most likely I won’t know EVERYTHING about a specific tool, framework, language, etc., but I always find myself reading about best practices, improving my code base, trying to keep it clean and readable, and assisting teammates.
 <br/>
-Of course, I love challenges. Developing something new, connecting some weird legacy system with, i don't know, whatever is required? Sign me up!
+Of course, I love challenges, developing something new, connecting some weird legacy system with, I don't know, whatever is required? Sign me up!
 
-Oh, did I mention that I also play the guitar? I don't consider myself a pro (not even close TBH), but let's see how it turns out.
+Oh, did I mention that I also play the guitar? I don’t consider myself a pro (not even close TBH), but let’s see how it turns out.
 <br/>
-I also like travelling, meeting new people and exposing myself to different cultures.
+I also like traveling, meeting new people and exposing myself to different cultures.
 
 
 OK, enough!! Geez!!!
