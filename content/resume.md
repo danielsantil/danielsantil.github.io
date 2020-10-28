@@ -39,7 +39,7 @@ slug: "resume"
     <code>February 2019 - Present</code>
   </div>
   <div style="display: inline-block; width: 65%; text-align: left; font-weight: bold; float: left;">
-    Infox GbmH & Co. Informationslogistik KG
+    Infox GmbH & Co. Informationslogistik KG
   </div>
   <div style="display: block; width: 100%; text-align: left; font-size: 0.9em;">
     Cologne Area, Germany
