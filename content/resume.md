@@ -11,7 +11,7 @@ slug: "resume"
 <a href="https://github.com/danielsantil" target="_blank">GitHub</a> |
 <a href="mailto:danielsantilh@gmail.com" target="_blank">Email</a>
 
-+1 (829) 862 0910    **-**    Dominican Republic (GMT-4)
+Dominican Republic (GMT-4)
 
 #### About
 
