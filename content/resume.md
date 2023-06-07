@@ -11,38 +11,69 @@ slug: "resume"
 <a href="https://github.com/danielsantil" target="_blank">GitHub</a> |
 <a href="mailto:danielsantilh@gmail.com" target="_blank">Email</a>
 
-Dominican Republic (GMT-4)
++1 (829) 862 0910    **-**    Dominican Republic (GMT-4)
 
 #### About
 
-5+ years developing efficient software applications for financial/banking and logistics industries, with a GTD mindset and always looking for improvement opportunities. 
+7+ years developing efficient software applications for financial/banking and logistics industries, with a GTD mindset and always looking for improvement opportunities. 
 
 #### Skills
 <div>
-  <code style="padding: 4px; margin: 4px 4px 4px 0px;">Angular 8+</code>
-  <code style="padding: 4px; margin: 4px;">HTML/CSS/Bootstrap</code>
-  <code style="padding: 4px; margin: 4px;">Javascript/TypeScript</code>
-  <code style="padding: 4px; margin: 4px;">C#</code>
-  <code style="padding: 4px; margin: 4px;">Java</code>
+  <code style="padding: 4px; margin: 4px 4px 4px 0px;">C#</code>
+  <code style="padding: 4px; margin: 4px;">.NET Core 7</code>
   <code style="padding: 4px; margin: 4px;">ASP.NET MVC & WebAPI</code>
-  <code style="padding: 4px; margin: 4px;">MongoDB</code>  
-  <code style="padding: 4px; margin: 4px;">MS SQL/Oracle</code>
-  <code style="padding: 4px; margin: 4px;">NodeJS/ExpressJS</code>
-  <code style="padding: 4px; margin: 4px;">Docker</code>
+  <code style="padding: 4px; margin: 4px;">EF Core 6</code>
+  <code style="padding: 4px; margin: 4px;">MSSQL</code>
+  <code style="padding: 4px; margin: 4px;">Azure CosmosDb</code>
   <code style="padding: 4px; margin: 4px;">RabbitMQ</code>
+  <code style="padding: 4px; margin: 4px;">Hangfire</code>
+  <code style="padding: 4px; margin: 4px;">Docker</code>
+  <code style="padding: 4px; margin: 4px;">Git</code>
+  <code style="padding: 4px; margin: 4px;">Angular 8+</code>
+  <code style="padding: 4px; margin: 4px;">Javascript/TypeScript</code>
+  <code style="padding: 4px; margin: 4px;">MongoDB</code>
+  <code style="padding: 4px; margin: 4px;">HTML/CSS/Bootstrap</code>
+  <code style="padding: 4px; margin: 4px;">NodeJS/ExpressJS</code>
 </div>
 
 #### Experience
 
 <div>
   <div style="display: inline-block; text-align: right; width: 35%; float: right;">
-    <code>February 2019 - Present</code>
+    <code>February 2021 - May 2023</code>
+  </div>
+  <div style="display: inline-block; width: 65%; text-align: left; font-weight: bold; float: left;">
+    Prediktive LLC, for XUP Payments
+  </div>
+  <div style="display: block; width: 100%; text-align: left; font-size: 0.9em;">
+    Remote
+  </div>
+  <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
+  	Software Engineer
+  </div>
+</div>
+
+- Built features to allow existing merchants to visualize reports on their transactions, deposits and chargebacks over time, while also being able to export those reports for a requested timeframe. (.NET 6, ASP.NET Core MVC, EF Core 5, Azure CosmosDb, MSSQL, Hangfire, Docker)
+
+- Developed a pipeline to fetch, normalize and import third party merchants data through SFTP to internal data stores. (.NET 6, ASP.NET Core MVC, EF Core 5, MSSQL, Hangfire)
+
+- Implemented SSO from scratch to allow login from third party vendor into the company's internal web portal.
+
+- Implemented proxy services to third party vendors, to support multiple merchant onboarding actions, such as business data lookup, physical address verification and risk evaluation. (.NET 7, ASP.NET Core MVC, EF Core 6, MSSQL, SQLite, Hangfire)
+
+- Developed services to allow onboarding of payment facilitators, helping them create new merchants and acquire POS products for multiple business locations, while also integrating to external banks to support their transactional operations. (.NET 6, ASP.NET Core MVC, EF Core 5, Azure CosmosDb, MSSQL, Hangfire, Docker)
+
+- Developed services to assist merchants on the onboarding process to the third party banks services, such as FirstData and Elavon. (.NET 6, ASP.NET Core MVC, EF Core 5, Azure CosmosDb, MSSQL, Hangfire, Docker)
+
+<div>
+  <div style="display: inline-block; text-align: right; width: 35%; float: right;">
+    <code>February 2019 - March 2021</code>
   </div>
   <div style="display: inline-block; width: 65%; text-align: left; font-weight: bold; float: left;">
     Infox GmbH & Co. Informationslogistik KG
   </div>
   <div style="display: block; width: 100%; text-align: left; font-size: 0.9em;">
-    Cologne Area, Germany
+    Cologne Area, Germany; Remote
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
   	Software Engineer
