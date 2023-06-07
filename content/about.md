@@ -7,7 +7,7 @@ This is where I start writing about myself... kind of a hard task already, huh? 
 
 My name is Daniel Santil. Born and raised right in the middle of the Caribbean, in my beloved Dominican Republic.
 
-I have 5+ years working as a software engineer, mainly as a backend developer, although I've been fully involved with frontend development lately... And hey, it's not that scary after all!
+I have 7+ years working as a software engineer, mainly as a backend developer, although I was involved with frontend development for a while... And hey, it's not that scary after all!
 <br/>
 That being said, I still lean towards backend development, I guess I prefer being in the shadows. :)
 
@@ -15,9 +15,9 @@ Well, let me break this down; Most likely I won’t know EVERYTHING about a spec
 <br/>
 Of course, I love challenges, developing something new, connecting some weird legacy system with, I don't know, whatever is required? Sign me up!
 
-Oh, did I mention that I also play the guitar? I don’t consider myself a pro (not even close TBH), but let’s see how it turns out.
+Oh, did I mention that I also play the guitar? ~~I don’t consider myself a pro (not even close TBH), but let’s see how it turns out~~ It started as a hobby, but as of 2023, I've been involved in some serious music projects with some of the main Christian artists in the Dominican Republic. So there's that.
 <br/>
 I also like traveling, meeting new people and exposing myself to different cultures.
 
 
-OK, enough!! Geez!!!
+OK, enough!!

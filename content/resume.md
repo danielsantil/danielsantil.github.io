@@ -6,7 +6,7 @@ slug: "resume"
 ## Daniel Santil
 **Senior Software Engineer**
 
-<a href="http://danielsantil.me" target="_blank">danielsantil.me</a> | 
+<a href="https://epic-banach-758a48.netlify.app/" target="_blank">Website</a> | 
 <a href="https://www.linkedin.com/in/danielsantil/" target="_blank">LinkedIn</a> | 
 <a href="https://github.com/danielsantil" target="_blank">GitHub</a> |
 <a href="mailto:danielsantilh@gmail.com" target="_blank">Email</a>

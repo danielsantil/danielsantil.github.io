@@ -34,7 +34,7 @@ googleAnalytics = "UA-180668429-1"
     hideFooter = true
     hideCredits = false
     hideCopyright = false
-    since = 2020
+    #since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -67,13 +67,13 @@ googleAnalytics = "UA-180668429-1"
 
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
+    icon = "fa fa-linkedin fa-lg"
     weight = 1
     url = "https://www.linkedin.com/in/danielsantil/"
     target = "blank"
 [[params.social]]
     name = "GitHub"
-    icon = "fab fa-github"
+    icon = "fa fa-github fa-lg"
     weight = 2
     url = "https://github.com/danielsantil/"
     target = "blank"
