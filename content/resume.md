@@ -49,7 +49,7 @@ slug: "resume"
     Remote
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
-  	Software Engineer
+  	Back-End Developer
   </div>
 </div>
 
@@ -76,7 +76,7 @@ slug: "resume"
     Cologne Area, Germany; Remote
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
-  	Software Engineer
+  	Full-Stack Developer
   </div>
 </div>
 
@@ -105,7 +105,7 @@ slug: "resume"
     Dominican Republic
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
-  	Software Engineer
+  	Back-End Developer
 	</div>
 </div>
 
