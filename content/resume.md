@@ -21,20 +21,26 @@ slug: "resume"
 <div>
   <code style="padding: 4px; margin: 4px 4px 4px 0px;">C#</code>
   <code style="padding: 4px; margin: 4px;">.NET Core 7</code>
+  <code style="padding: 4px; margin: 4px;">Go</code>
+  <code style="padding: 4px; margin: 4px;">Angular 16</code>
+  <code style="padding: 4px; margin: 4px;">Javascript/TypeScript</code>
+  <code style="padding: 4px; margin: 4px;">MongoDB</code>
+  <code style="padding: 4px; margin: 4px;">HTML/CSS/Bootstrap</code>
+  <code style="padding: 4px; margin: 4px;">MSSQL</code>
   <code style="padding: 4px; margin: 4px;">ASP.NET MVC & WebAPI</code>
   <code style="padding: 4px; margin: 4px;">EF Core 6</code>
-  <code style="padding: 4px; margin: 4px;">MSSQL</code>
   <code style="padding: 4px; margin: 4px;">Azure CosmosDb</code>
   <code style="padding: 4px; margin: 4px;">RabbitMQ</code>
   <code style="padding: 4px; margin: 4px;">Hangfire</code>
   <code style="padding: 4px; margin: 4px;">Docker</code>
   <code style="padding: 4px; margin: 4px;">Git</code>
-  <code style="padding: 4px; margin: 4px;">Angular 8+</code>
-  <code style="padding: 4px; margin: 4px;">Javascript/TypeScript</code>
-  <code style="padding: 4px; margin: 4px;">MongoDB</code>
-  <code style="padding: 4px; margin: 4px;">HTML/CSS/Bootstrap</code>
   <code style="padding: 4px; margin: 4px;">NodeJS/ExpressJS</code>
 </div>
+
+#### Projects
+
+- **Go API** https://github.com/danielsantil/weather-api
+- **Angular app** https://github.com/danielsantil/weather-app
 
 #### Experience
 
