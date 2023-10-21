@@ -6,16 +6,17 @@ slug: "resume"
 ## Daniel Santil
 **Senior Software Engineer**
 
-<a href="https://epic-banach-758a48.netlify.app/" target="_blank">Website</a> | 
+<a href="https:danielsantil.com/" target="_blank">Website</a> | 
 <a href="https://www.linkedin.com/in/danielsantil/" target="_blank">LinkedIn</a> | 
 <a href="https://github.com/danielsantil" target="_blank">GitHub</a> |
 <a href="mailto:danielsantilh@gmail.com" target="_blank">Email</a>
 
 +1 (829) 862 0910    **-**    Dominican Republic (GMT-4)
 
-#### About
 
+#### About
 7+ years developing efficient software applications for financial/banking and logistics industries, with a GTD mindset and always looking for improvement opportunities. 
+
 
 #### Skills
 <div>
@@ -37,12 +38,24 @@ slug: "resume"
   <code style="padding: 4px; margin: 4px;">NodeJS/ExpressJS</code>
 </div>
 
-#### Projects
-
-- **Go API** https://github.com/danielsantil/weather-api
-- **Angular app** https://github.com/danielsantil/weather-app
 
 #### Experience
+<div>
+  <div style="display: inline-block; text-align: right; width: 35%; float: right;">
+    <code>October 2023 - present</code>
+  </div>
+  <div style="display: inline-block; width: 65%; text-align: left; font-weight: bold; float: left;">
+    Paiwares
+  </div>
+  <div style="display: block; width: 100%; text-align: left; font-size: 0.9em;">
+    Remote
+  </div>
+  <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
+  	Sr. Software Engineer
+  </div>
+</div>
+
+- Re-imaging the payment world
 
 <div>
   <div style="display: inline-block; text-align: right; width: 35%; float: right;">
@@ -143,8 +156,12 @@ slug: "resume"
 - Self-taught Websphere Application Server in less than 1 month, achieving successful legacy servers integrations using IBM Integration Bus and Java EE7, improving messaging flows.
 
 
-#### Education
+#### Projects
+- **Go API** https://github.com/danielsantil/weather-api
+- **Angular app** https://github.com/danielsantil/weather-app
 
+
+#### Education
 <div>
   <div style="display: inline-block; text-align: right; width: 35%; float: right;">
     <code>2013 - 2019</code>
