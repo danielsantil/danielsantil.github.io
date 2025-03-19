@@ -15,7 +15,7 @@ slug: "resume"
 
 
 #### About
-8+ years developing efficient software applications for financial/banking and logistics industries, with a GTD mindset and always looking for improvement opportunities. 
+9+ years developing efficient software applications for financial/banking and logistics industries, with a GTD mindset and always looking for improvement opportunities. 
 
 
 #### Skills
@@ -35,20 +35,50 @@ slug: "resume"
   <code style="padding: 4px; margin: 4px;">HTML/CSS/Bootstrap</code>
   <code style="padding: 4px; margin: 4px;">Git</code>
   <code style="padding: 4px; margin: 4px;">NodeJS/ExpressJS</code>
+  <code style="padding: 4px; margin: 4px;">Java</code>
+  <code style="padding: 4px; margin: 4px;">Spring Boot</code>
   <code style="padding: 4px; margin: 4px;">Go</code>
+  <code style="padding: 4px; margin: 4px;">React</code>
+  <code style="padding: 4px; margin: 4px;">MySQL</code>
+  <code style="padding: 4px; margin: 4px;">AWS</code>
 </div>
 
 
 #### Experience
 <div>
   <div style="display: inline-block; text-align: right; width: 35%; float: right;">
+    <code>May 2024 - March 2025</code>
+  </div>
+  <div style="display: inline-block; width: 65%; text-align: left; font-weight: bold; float: left;">
+    MilkMoney
+  </div>
+  <div style="display: block; width: 100%; text-align: left; font-size: 0.9em;">
+    Remote - Contractor
+  </div>
+  <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
+  	Full Stack Developer
+  </div>
+</div>
+
+- Implemented new services to facilitate migration to the company's new internal platform using Go, MySQL, and AWS.
+
+- Maintained existing backend services for the current platform, fixing dozens of bugs and ensuring a smoother and more intuitive creation of out-of-home (OOH) advertising campaigns (Node.js 22, Express, MySQL).
+
+- Developed API services to improve performance in existing systems, reducing inventory and campaign data preview times by 90% (Node.js, Express, MySQL).
+
+- Created scripts to normalize and migrate 50GB+ of public advertising inventory data from multiple vendors and data sources into the company's internal database systems (Python, Bash, MySQL, MongoDB, Go).
+
+- Migrated the legacy UI codebase (Vue.js, Nuxt) to a new platform and built UI components in React, enabling planners to create 200+ advertising campaigns per year, manage 2,200+ clients, coordinate with 650+ billboard vendors, oversee 10,000+ inventory units, streamline campaign creation and editing, facilitate inventory data uploads through file imports, and manage client contracts (React 18, Vite, TailwindCSS, GCP).
+
+<div>
+  <div style="display: inline-block; text-align: right; width: 35%; float: right;">
     <code>October 2023 - January 2024</code>
   </div>
   <div style="display: inline-block; width: 65%; text-align: left; font-weight: bold; float: left;">
-    EDRAY (Paiwares - contractor)
+    EDRAY
   </div>
   <div style="display: block; width: 100%; text-align: left; font-size: 0.9em;">
-    Remote
+    Remote - Contractor
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
   	Sr. Software Engineer
@@ -68,10 +98,10 @@ slug: "resume"
     <code>February 2021 - May 2023</code>
   </div>
   <div style="display: inline-block; width: 65%; text-align: left; font-weight: bold; float: left;">
-    XUP Payments (Prediktive LLC - contractor)
+    XUP Payments
   </div>
   <div style="display: block; width: 100%; text-align: left; font-size: 0.9em;">
-    Remote
+    Remote - Contractor
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
   	Back-End Developer
@@ -154,9 +184,9 @@ slug: "resume"
 </div>
 
 
-#### Projects
+<!-- #### Projects
 - **Go API** https://github.com/danielsantil/weather-api
-- **Angular app** https://github.com/danielsantil/weather-app
+- **Angular app** https://github.com/danielsantil/weather-app -->
 
 
 #### Education

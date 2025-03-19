@@ -3,21 +3,16 @@ title: "About me!"
 slug: "about"
 ---
 
-This is where I start writing about myself... kind of a hard task already, huh? But I'll do my best.
+Writing about yourself is always challenging, isn't it? But I'll give it my best shot.
 
-My name is Daniel Santil. Born and raised right in the middle of the Caribbean, in my beloved Dominican Republic.
+My name is Daniel Santil. I was born and raised in the heart of the Caribbean, in my beloved Dominican Republic.
 
-I have 7+ years working as a software engineer, mainly as a backend developer, although I was involved with frontend development for a while... And hey, it's not that scary after all!
-<br/>
-That being said, I still lean towards backend development, I guess I prefer being in the shadows. :)
+I have 9+ years of experience as a software engineer, primarily as a backend developer, though I've been involved with frontend development for a significant time as well.
 
-Well, let me break this down; Most likely I won’t know EVERYTHING about a specific tool, framework, language, etc., but I always find myself reading about best practices, improving my code base, trying to keep it clean and readable, and assisting teammates.
-<br/>
-Of course, I love challenges, developing something new, connecting some weird legacy system with, I don't know, whatever is required? Sign me up!
+While I don't claim to know EVERYTHING about every tool, framework, or language, I constantly find myself researching best practices, improving codebases, striving to keep code clean and readable, and supporting my teammates.
 
-Oh, did I mention that I also play the guitar? ~~I don’t consider myself a pro (not even close TBH), but let’s see how it turns out~~ It started as a hobby, but as of 2023, I've been involved in some serious music projects with some of the main Christian artists in the Dominican Republic. So there's that.
-<br/>
-I also like traveling, meeting new people and exposing myself to different cultures.
+Of course, I love challenges — whether it's developing something from scratch or connecting some obscure legacy system with whatever modern solution is required. Count me in!
 
+Beyond software development, I'm passionate about music and play the guitar. I've participated in multiple musical projects with some of the leading Christian artists in Latin America. I'm also proud to have co-founded and currently run a record label company based in Miami.
 
-OK, enough!!
+I love traveling, meeting new people, and immersing myself in different cultures. These experiences continue to shape both my personal and professional perspectives.
