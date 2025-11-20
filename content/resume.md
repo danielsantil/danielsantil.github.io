@@ -7,7 +7,6 @@ slug: "resume"
 **Senior Software Engineer**
 
 <a href="https://danielsantil.com/" target="_blank">Website</a> | 
-<a href="https://www.linkedin.com/in/danielsantil/" target="_blank">LinkedIn</a> | 
 <a href="https://github.com/danielsantil" target="_blank">GitHub</a> |
 <a href="mailto:danielsantilh@gmail.com" target="_blank">Email</a>
 
@@ -29,7 +28,7 @@ slug: "resume"
   <code style="padding: 4px; margin: 4px;">RabbitMQ</code>
   <code style="padding: 4px; margin: 4px;">Hangfire</code>
   <code style="padding: 4px; margin: 4px;">Docker</code>
-  <code style="padding: 4px; margin: 4px;">Angular 16</code>
+  <code style="padding: 4px; margin: 4px;">Angular</code>
   <code style="padding: 4px; margin: 4px;">Javascript/TypeScript</code>
   <code style="padding: 4px; margin: 4px;">MongoDB</code>
   <code style="padding: 4px; margin: 4px;">HTML/CSS/Bootstrap</code>
