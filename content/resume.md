@@ -8,8 +8,7 @@ slug: "resume"
 
 <a href="https://danielsantil.com/" target="_blank">Website</a> | 
 <a href="https://www.linkedin.com/in/danielsantil/" target="_blank">LinkedIn</a> |
-<a href="mailto:danielsantilh@gmail.com" target="_blank">Email</a>
-
+<a href="mailto:danielsantilh@gmail.com" target="_blank">Email</a> |
 +1 (829) 862 0910 **-** (GMT-4)
 
 
@@ -18,41 +17,24 @@ Senior Software Engineer with 9+ years of backend expertise in .NET, specializin
 
 
 #### Skills
-<div>
-  <code style="padding: 4px; margin: 4px 4px 4px 0px;">C#</code>
-  <code style="padding: 4px; margin: 4px;">.NET</code>
-  <code style="padding: 4px; margin: 4px;">ASP.NET MVC & WebAPI</code>
-  <code style="padding: 4px; margin: 4px;">Entity Framework</code>
-  <code style="padding: 4px; margin: 4px;">REST</code>
-  <code style="padding: 4px; margin: 4px;">AWS</code>
-  <code style="padding: 4px; margin: 4px;">Azure</code>
-  <code style="padding: 4px; margin: 4px;">Azure CosmosDb</code>
-  <code style="padding: 4px; margin: 4px;">Azure Functions</code>
-  <code style="padding: 4px; margin: 4px;">Azure Service Bus</code>
-  <code style="padding: 4px; margin: 4px;">SQL Server</code>
-  <code style="padding: 4px; margin: 4px;">MySQL</code>
-  <code style="padding: 4px; margin: 4px;">RabbitMQ</code>
-  <code style="padding: 4px; margin: 4px;">Hangfire</code>
-  <code style="padding: 4px; margin: 4px;">Angular</code>
-  <code style="padding: 4px; margin: 4px;">Javascript</code>
-  <code style="padding: 4px; margin: 4px;">TypeScript</code>
-  <code style="padding: 4px; margin: 4px;">NoSQL</code>
-  <code style="padding: 4px; margin: 4px;">MongoDB</code>
-  <code style="padding: 4px; margin: 4px;">HTML</code>
-  <code style="padding: 4px; margin: 4px;">CSS</code>
-  <code style="padding: 4px; margin: 4px;">Bootstrap</code>
-  <code style="padding: 4px; margin: 4px;">Tailwind</code>
-  <code style="padding: 4px; margin: 4px;">Git</code>
-  <code style="padding: 4px; margin: 4px;">Node.js</code>
-  <code style="padding: 4px; margin: 4px;">Express.js</code>
-  <code style="padding: 4px; margin: 4px;">Java</code>
-  <code style="padding: 4px; margin: 4px;">Java EE</code>
-  <code style="padding: 4px; margin: 4px;">Spring Boot</code>
-  <code style="padding: 4px; margin: 4px;">Go</code>
-  <code style="padding: 4px; margin: 4px;">React</code>
-  <code style="padding: 4px; margin: 4px;">Zustand</code>
-  <code style="padding: 4px; margin: 4px;">Docker</code>
-</div>
+ 
+**Languages:**
+<code>C#</code> <code>Java</code> <code>Go</code> <code>JavaScript</code> <code>TypeScript</code>
+ 
+**Frameworks & Libraries:**
+<code>ASP.NET Core</code> <code>.NET</code> <code>Entity Framework</code> <code>Spring Boot</code> <code>Node.js</code> <code>Express.js</code> <code>Angular</code> <code>React</code> <code>Zustand</code> <code>Hangfire</code>
+ 
+**Cloud & Infrastructure:**
+<code>AWS</code> <code>Azure</code> <code>Azure Functions</code> <code>Azure Service Bus</code> <code>Azure CosmosDB</code> <code>Docker</code> <code>RabbitMQ</code>
+ 
+**Databases:**
+<code>SQL Server</code> <code>MySQL</code> <code>MongoDB</code> <code>NoSQL</code>
+ 
+**Frontend & UI:**
+<code>HTML</code> <code>CSS</code> <code>Bootstrap</code> <code>Tailwind</code>
+ 
+**Testing & Tooling:**
+<code>xUnit</code> <code>NUnit</code> <code>Git</code> <code>REST</code> <code>Microservices</code>
 
 
 #### Experience
