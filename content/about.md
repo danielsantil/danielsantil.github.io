@@ -15,4 +15,4 @@ Of course, I love challenges — whether it's developing something from scratch 
 
 Beyond software development, I'm passionate about music and play the guitar. I've participated in multiple musical projects with some of the leading Christian artists in Latin America. I'm also proud to have co-founded and currently run a record label company.
 
-I love traveling, meeting new people, and immersing myself in different cultures. These experiences continue to shape both my personal and professional perspectives.
+I love traveling and meeting new people. These experiences continue to shape both my personal and professional perspectives.
