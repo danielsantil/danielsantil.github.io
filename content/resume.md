@@ -13,7 +13,7 @@ slug: "resume"
 
 
 #### About
-Senior Software Engineer with 9+ years of backend expertise in .NET, specializing in fintech, banking, and logistics systems — designing APIs, modernizing legacy systems, and building data-intensive pipelines. Full-stack contributor with production-level Angular and React experience. Thrives in remote and distributed team settings, consistently delivering reliable, well-tested software. Comfortable owning technical decisions independently while collaborating across time zones.
+Senior Software Engineer with 9+ years of backend expertise in .NET, specializing in fintech, banking, and logistics systems. Full-stack contributor with production-level Angular and React experience. Experienced in modernizing legacy systems, designing microservices, and building distributed, data-intensive systems. Proven ability to independently own technical decisions and deliver reliable, well-tested software in fully remote teams.
 
 
 #### Skills
@@ -53,17 +53,17 @@ Senior Software Engineer with 9+ years of backend expertise in .NET, specializin
   </div>
 </div>
 
-- Implemented new backend services in Go and MySQL to facilitate the company's migration to a new internal platform, designing RESTful APIs and data models to support the transition while maintaining compatibility with existing systems hosted on AWS, with source code version controlled via GitHub.
+- Implemented new backend services in Go and MySQL to facilitate the company's migration to a new internal platform, designing RESTful APIs and data models to support the transition while maintaining compatibility with existing systems hosted on AWS.
+
+- Designed and built a data migration pipeline using Bash, Go, MySQL, and MongoDB to process and consolidate 50GB+ of public advertising inventory data from multiple external vendors into the company's unified internal database systems.
 
 - Maintained and enhanced existing backend services using Node.js and Express.js with MySQL, resolving bugs across the platform and improving the reliability of out-of-home (OOH) advertising campaign creation workflows.
 
 - Built optimized Node.js/Express.js API services with MySQL, reducing inventory and campaign data preview load times by 90% through query optimization and efficient data pipelines.
 
-- Engineered data migration scripts using Bash, Go, MySQL, and MongoDB to process and consolidate 50GB+ of public advertising inventory data from multiple external vendors into the company's unified internal database systems.
-
 - Migrated a legacy Vue.js/Nuxt.js UI codebase — originally developed by an offshore team and no longer actively maintained — to a modern platform built with React, Vite, Zustand, and Tailwind CSS, deployed on AWS, enabling the in-house team to own, maintain, and extend the frontend with a stack they were proficient in.
 
-- Built modular UI components that empowered campaign planners to manage the full advertising lifecycle — supporting 200+ campaigns per year, 2,200+ clients, 650+ billboard vendors, and 10,000+ inventory units — while streamlining campaign creation and editing, enabling inventory data uploads via file imports, and facilitating client contract management.
+- Built modular React UI components supporting the full advertising lifecycle for 200+ campaigns/year, 2,200+ clients, 650+ billboard vendors, and 10,000+ inventory units — while streamlining campaign creation and editing, enabling inventory data uploads via file imports, and facilitating client contract management.
 
 
 <div>
@@ -81,11 +81,11 @@ Senior Software Engineer with 9+ years of backend expertise in .NET, specializin
   </div>
 </div>
 
-- Collaborated on the migration of a legacy monolith API to a microservices architecture using .NET Core and SQL Server deployed on Azure, redesigning the system to independently manage shipments and voyages with improved scalability and maintainability, with source code version controlled via GitLab.
+- Led backend development for the migration of a legacy monolith API to a microservices architecture using .NET Core and SQL Server deployed on Azure, redesigning the system to independently manage shipments and voyages with improved scalability and maintainability.
 
 - Established a robust testing suite with xUnit, Docker, and Testcontainers to spin up isolated, production-ready database environments for both unit and integration tests.
 
-- Implemented Azure Service Bus senders and receivers to handle asynchronous event-driven communication, triggering real-time updates to aggregated dashboard reports for carriers and admin users.
+- Designed an event-driven microservices architecture using Azure Service Bus to coordinate shipment and voyage services, triggering real-time updates to aggregated dashboard reports for carriers and admin users.
 
 - Developed Azure Functions to automate SQL Server operations, ensuring shipment records were accurately updated in response to voyage status changes.
 
@@ -105,19 +105,19 @@ Senior Software Engineer with 9+ years of backend expertise in .NET, specializin
   </div>
 </div>
 
-- Built merchant-facing reporting features using ASP.NET Core MVC and Entity Framework Core, enabling transaction, deposit, and chargeback visualization over custom timeframes with export functionality, with source code version controlled via GitHub.
+- Built merchant-facing reporting features using ASP.NET Core MVC and Entity Framework Core, enabling transaction, deposit, and chargeback visualization over custom timeframes with export functionality.
 
 - Used Azure Cosmos DB for fast read performance on reporting queries, keeping data in sync with SQL Server via background jobs scheduled through Hangfire, with containerized deployments managed via Docker.
 
-- Wrote unit and integration tests using NUnit, covering APIs, services, and SQL operations across the reporting and onboarding surface area.
+- Designed and built an automated data pipeline using .NET and Hangfire to fetch, normalize, and import third-party merchant data via SFTP into internal SQL Server stores, ensuring consistent and scheduled data synchronization across the platform.
 
-- Engineered an automated data pipeline using .NET and Hangfire to fetch, normalize, and import third-party merchant data via SFTP into internal SQL Server stores, ensuring consistent and scheduled data synchronization across the platform.
+- Wrote unit and integration tests using NUnit, covering APIs, services, and SQL operations across the reporting and onboarding surface area.
 
 - Implemented SAML-based SSO to enable third-party vendor login into the company's internal web portal using .NET.
 
 - Built proxy services using ASP.NET Core MVC and SQL Server to integrate with external data provider APIs, enabling business data lookup, address verification, and risk evaluation within a single onboarding flow — eliminating the need for agents to switch between multiple systems and reducing friction during customer onboarding.
 
-- Developed end-to-end merchant and payment facilitator onboarding services using ASP.NET Core MVC, Entity Framework Core, Azure Cosmos DB, and SQL Server — enabling facilitators to create merchants, acquire POS products across multiple locations, and integrate with third-party banking platforms including FirstData and Elavon, with Hangfire orchestrating background tasks such as data syncing and async operations throughout the onboarding process.
+- Developed end-to-end merchant and payment facilitator onboarding services using ASP.NET Core MVC, Entity Framework Core, Azure Cosmos DB, and SQL Server — enabling facilitators to create merchants, acquire POS products across multiple locations, and integrate with third-party banking platforms including FirstData and Elavon, with Hangfire orchestrating background tasks including data synchronization between Cosmos DB and SQL Server.
 
 
 <div>
@@ -139,7 +139,7 @@ Senior Software Engineer with 9+ years of backend expertise in .NET, specializin
 
 - Assumed team lead responsibilities in the lead's absence, mentoring junior developers and serving as the primary technical point of contact with the IT manager.
 
-- Integrated RabbitMQ to handle asynchronous messaging between backend microservices and coordinate async data write operations, with MongoDB as the primary data store and source code version controlled via GitLab.
+- Integrated RabbitMQ to handle asynchronous messaging between backend microservices and coordinate async data write operations, with MongoDB as the primary data store.
 
 - Redesigned and refactored 30+ Angular components using TypeScript, HTML, CSS, and Bootstrap, establishing a custom design system later adopted across future projects.
 
@@ -167,7 +167,9 @@ Senior Software Engineer with 9+ years of backend expertise in .NET, specializin
 	</div>
 </div>
 
-- Implemented a bulk file upload feature using Java EE and Oracle DB capable of processing up to 5,000 payment records in under 10 seconds on average, orchestrating interoperability between RESTful API services, relational database operations, and legacy AS400 systems via IBM Integration Bus as the message broker to facilitate communication across legacy infrastructure, with source code version controlled via IBM RTC.
+- Implemented a bulk file upload feature using Java EE and Oracle DB capable of processing up to 5,000 payment records in under 10 seconds on average.
+
+- Orchestrated interoperability between RESTful API services, relational database operations, and legacy AS400 systems using IBM Integration Bus as the message broker, facilitating communication across legacy banking infrastructure.
 
 - Developed a transaction reporting export feature using Java EE and Oracle DB, leveraging Jasper Reports to generate PDF, CSV, and TXT formatted reports based on 10,000+ customer transactions in seconds, with HTML and CSS used for report styling and layout.
 
