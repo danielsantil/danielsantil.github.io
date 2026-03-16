@@ -7,7 +7,7 @@ slug: "resume"
 **Senior Software Engineer**
 
 <a href="https://danielsantil.com/" target="_blank">Website</a> | 
-<a href="https://github.com/danielsantil" target="_blank">GitHub</a> |
+<a href="https://www.linkedin.com/in/danielsantil/" target="_blank">LinkedIn</a> |
 <a href="mailto:danielsantilh@gmail.com" target="_blank">Email</a>
 
 +1 (829) 862 0910 **-** (GMT-4)
@@ -20,26 +20,38 @@ slug: "resume"
 #### Skills
 <div>
   <code style="padding: 4px; margin: 4px 4px 4px 0px;">C#</code>
-  <code style="padding: 4px; margin: 4px;">.NET Core</code>
-  <code style="padding: 4px; margin: 4px;">MSSQL</code>
+  <code style="padding: 4px; margin: 4px;">.NET</code>
   <code style="padding: 4px; margin: 4px;">ASP.NET MVC & WebAPI</code>
-  <code style="padding: 4px; margin: 4px;">EF Core</code>
+  <code style="padding: 4px; margin: 4px;">Entity Framework</code>
+  <code style="padding: 4px; margin: 4px;">REST</code>
+  <code style="padding: 4px; margin: 4px;">AWS</code>
+  <code style="padding: 4px; margin: 4px;">Azure</code>
   <code style="padding: 4px; margin: 4px;">Azure CosmosDb</code>
+  <code style="padding: 4px; margin: 4px;">Azure Functions</code>
+  <code style="padding: 4px; margin: 4px;">Azure Service Bus</code>
+  <code style="padding: 4px; margin: 4px;">SQL Server</code>
+  <code style="padding: 4px; margin: 4px;">MySQL</code>
   <code style="padding: 4px; margin: 4px;">RabbitMQ</code>
   <code style="padding: 4px; margin: 4px;">Hangfire</code>
-  <code style="padding: 4px; margin: 4px;">Docker</code>
   <code style="padding: 4px; margin: 4px;">Angular</code>
-  <code style="padding: 4px; margin: 4px;">Javascript/TypeScript</code>
+  <code style="padding: 4px; margin: 4px;">Javascript</code>
+  <code style="padding: 4px; margin: 4px;">TypeScript</code>
+  <code style="padding: 4px; margin: 4px;">NoSQL</code>
   <code style="padding: 4px; margin: 4px;">MongoDB</code>
-  <code style="padding: 4px; margin: 4px;">HTML/CSS/Bootstrap</code>
+  <code style="padding: 4px; margin: 4px;">HTML</code>
+  <code style="padding: 4px; margin: 4px;">CSS</code>
+  <code style="padding: 4px; margin: 4px;">Bootstrap</code>
+  <code style="padding: 4px; margin: 4px;">Tailwind</code>
   <code style="padding: 4px; margin: 4px;">Git</code>
-  <code style="padding: 4px; margin: 4px;">NodeJS/ExpressJS</code>
+  <code style="padding: 4px; margin: 4px;">Node.js</code>
+  <code style="padding: 4px; margin: 4px;">Express.js</code>
   <code style="padding: 4px; margin: 4px;">Java</code>
+  <code style="padding: 4px; margin: 4px;">Java EE</code>
   <code style="padding: 4px; margin: 4px;">Spring Boot</code>
   <code style="padding: 4px; margin: 4px;">Go</code>
   <code style="padding: 4px; margin: 4px;">React</code>
-  <code style="padding: 4px; margin: 4px;">MySQL</code>
-  <code style="padding: 4px; margin: 4px;">AWS</code>
+  <code style="padding: 4px; margin: 4px;">Zustand</code>
+  <code style="padding: 4px; margin: 4px;">Docker</code>
 </div>
 
 
@@ -55,19 +67,22 @@ slug: "resume"
     Remote - Contractor
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
-  	Full Stack Developer
+  	Full Stack Engineer
   </div>
 </div>
 
-- Implemented new services to facilitate migration to the company's new internal platform using Go, MySQL, and AWS.
+- Implemented new backend services in Go and MySQL to facilitate the company's migration to a new internal platform, designing RESTful APIs and data models to support the transition while maintaining compatibility with existing systems hosted on AWS, with source code version controlled via GitHub.
 
-- Maintained existing backend services for the current platform, fixing dozens of bugs and ensuring a smoother and more intuitive creation of out-of-home (OOH) advertising campaigns (Node.js 22, Express, MySQL).
+- Maintained and enhanced existing backend services using Node.js and Express.js with MySQL, resolving dozens of bugs across the platform and improving the reliability of out-of-home (OOH) advertising campaign creation workflows.
 
-- Developed API services to improve performance in existing systems, reducing inventory and campaign data preview times by 90% (Node.js, Express, MySQL).
+- Built optimized Node.js/Express.js API services with MySQL, reducing inventory and campaign data preview load times by 90% through query optimization and efficient data pipelines.
 
-- Created scripts to normalize and migrate 50GB+ of public advertising inventory data from multiple vendors and data sources into the company's internal database systems (Python, Bash, MySQL, MongoDB, Go).
+- Engineered data migration scripts using Python, Bash, Go, MySQL, and MongoDB to process and consolidate 50GB+ of public advertising inventory data from multiple external vendors into the company's unified internal database systems.
 
-- Migrated the legacy UI codebase (Vue.js, Nuxt) to a new platform and built UI components in React, enabling planners to create 200+ advertising campaigns per year, manage 2,200+ clients, coordinate with 650+ billboard vendors, oversee 10,000+ inventory units, streamline campaign creation and editing, facilitate inventory data uploads through file imports, and manage client contracts (React 18, Vite, TailwindCSS, GCP).
+- Worked on the migration of a legacy Vue.js/Nuxt.js UI codebase to a new platform built with React, Vite, Zustand for global state management, and Tailwind CSS, deployed on AWS, utilizing Claude and ChatGPT as development aids to accelerate understanding of legacy Vue.js patterns and inform React implementation decisions.
+
+- Built modular UI components that empowered campaign planners to manage the full advertising lifecycle — supporting 200+ campaigns per year, 2,200+ clients, 650+ billboard vendors, and 10,000+ inventory units — while streamlining campaign creation and editing, enabling inventory data uploads via file imports, and facilitating client contract management.
+
 
 <div>
   <div style="display: inline-block; text-align: right; width: 35%; float: right;">
@@ -80,17 +95,18 @@ slug: "resume"
     Remote - Contractor
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
-  	Sr. Software Engineer
+  	Senior Software Engineer
   </div>
 </div>
 
-- Ported existing codebase from a legacy monolith API to a redesigned architecture based on microservices to manage shipments and voyages, by using .NET Core 6, MSSQL and Azure Services. 
+- Led the migration of a legacy monolith API to a microservices architecture using .NET Core and SQL Server deployed on Azure, redesigning the system to independently manage shipments and voyages with improved scalability and maintainability, with source code version controlled via GitLab.
 
-- Set up unit tests and integration tests, while using xUnit, Docker, Testcontainers and helper libraries to spin up a self-manageable production-ready database environment for all tests.
+- Established a robust testing suite with xUnit, Docker, and Testcontainers to spin up isolated, production-ready database environments for both unit and integration tests.
 
-- Implemented service bus senders and receivers to update aggregated dashboard reports for carriers and admin users. (.NET Core 6, Azure Service Bus)
+- Implemented Azure Service Bus senders and receivers to handle asynchronous event-driven communication, triggering real-time updates to aggregated dashboard reports for carriers and admin users.
 
-- Implemented multiple Azure functions to trigger SQL operations to update shipments data when a voyage status changed.
+- Developed Azure Functions to automate SQL Server operations, ensuring shipment records were accurately updated in response to voyage status changes.
+
 
 <div>
   <div style="display: inline-block; text-align: right; width: 35%; float: right;">
@@ -103,21 +119,21 @@ slug: "resume"
     Remote - Contractor
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
-  	Back-End Developer
+  	Back-End Engineer
   </div>
 </div>
 
-- Built features to allow existing merchants to visualize reports on their transactions, deposits, and chargebacks over time, while also being able to export those reports for a requested timeframe. (.NET 6, ASP.NET Core MVC, EF Core 5, Azure CosmosDb, MSSQL, Hangfire, Docker)
+- Built merchant-facing reporting features using ASP.NET Core MVC and Entity Framework Core, enabling transaction, deposit, and chargeback visualization over custom timeframes with export functionality. Leveraged Azure Cosmos DB for fast read performance on reporting queries, with data kept in sync between Cosmos DB and SQL Server, background job scheduling via Hangfire, and containerized deployments with Docker, with source code version controlled via GitHub. Used NUnit to write and execute unit tests and integration tests covering APIs, services and SQL operations.
 
-- Developed a pipeline to fetch, normalize and import third-party merchants' data through SFTP to internal data stores. (.NET 6, ASP.NET Core MVC, EF Core 5, MSSQL, Hangfire)
+- Engineered an automated data pipeline using .NET and Hangfire to fetch, normalize, and import third-party merchant data via SFTP into internal SQL Server stores, ensuring consistent and scheduled data synchronization across the platform.
 
-- Implemented SSO from scratch to allow login from third-party vendors into the company's internal web portal.
+- Implemented SSO from scratch to enable third-party vendor login into the company's internal web portal using .NET.
+built proxy services integrated with external APIs to support merchant onboarding actions including business data lookup, address verification, and risk evaluation, using ASP.NET Core MVC and SQL Server.
 
-- Implemented proxy services to third-party vendors, to support multiple merchant onboarding actions, such as business data lookup, physical address verification, and risk evaluation. (.NET 7, ASP.NET Core MVC, EF Core 6, MSSQL, SQLite, Hangfire)
+- Developed payment facilitator onboarding services using ASP.NET Core MVC, Entity Framework Core, Azure Cosmos DB, and SQL Server, enabling facilitators to create new merchants, acquire POS products across multiple business locations, and integrate with external banks to support transactional operations via Docker-containerized deployments.
 
-- Developed services to allow onboarding of payment facilitators, helping them create new merchants and acquire POS products for multiple business locations, while also integrating with external banks to support their transactional operations. (.NET 6, ASP.NET Core MVC, EF Core 5, Azure CosmosDb, MSSQL, Hangfire, Docker)
+- Built merchant onboarding services to streamline integration with third-party banking platforms including FirstData and Elavon, leveraging ASP.NET Core MVC, Entity Framework Core, and Cosmos DB to manage data flows, with Hangfire orchestrating background tasks such as updating dashboard data, syncing Cosmos DB and SQL Server, and handling any additional asynchronous operations throughout the onboarding process.
 
-- Developed services to assist merchants on the onboarding process to third-party banks' services, such as FirstData and Elavon. (.NET 6, ASP.NET Core MVC, EF Core 5, Azure CosmosDb, MSSQL, Hangfire, Docker)
 
 <div>
   <div style="display: inline-block; text-align: right; width: 35%; float: right;">
@@ -130,71 +146,52 @@ slug: "resume"
     Cologne Area, Germany; Remote
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
-  	Full-Stack Developer
+  	Full-Stack Engineer
   </div>
 </div>
 
-- Developed a full stack web app that allowed 10,000+ hotel owners and travel agencies in Germany (and German-speaking countries) to create and advertise offers, by using .NET-based APIs and RabbitMQ to improve user experience while reducing the requests processing costs. (Angular 7+, .NET, Umbraco CMS, RabbitMQ, MongoDB)
+- Developed a full-stack web app using .NET backend services, Angular for the client-side UI, and Umbraco CMS to manage and deliver dynamic content within the Angular frontend, enabling 10,000+ hotel owners and travel agencies across Germany and German-speaking countries to create and advertise offers. Utilized RabbitMQ to handle asynchronous messaging between backend microservices and coordinate async data write operations, with MongoDB as the primary data store and source code version controlled via GitLab.
 
-- Redesigned and refactored 30+ Angular 7 Components, resulting in a custom design system later adopted by future projects. (Angular 7+, Typescript, HTML, CSS/Bootstrap4)
+- Redesigned and refactored 30+ Angular components using TypeScript, HTML, CSS, and Bootstrap, establishing a custom design system later adopted across future projects.
 
-- Developed an orders management system using .NET 4.7.2, Angular 7+, MongoDB, and RabbitMQ to allow supervisors to see and manage completed orders, job queues, and print jobs.
+- Built an orders management system with .NET, Angular, MongoDB, and RabbitMQ to allow supervisors to monitor and manage completed orders, job queues, and print jobs in real time.
 
-- Implemented a content delivery network to host time-based email newsletters' media files, thus allowing the integration of such files into digital newsletters advertising campaigns. (ASP.NET, MongoDB, RabbitMQ)
+- Implemented a content delivery network using ASP.NET and MongoDB to host time-based media files for email newsletters, enabling seamless integration of rich media assets into digital advertising campaigns.
 
-- Implemented a live PDF/HTML preview renderer that allowed customers to see current changes right away, thus reducing spent time to complete printed/digital newsletters. (Angular7+, HTML/CSS/Bootstrap, PDF.js)
+- Built a live PDF/HTML preview renderer using Angular, PDF.js, HTML, CSS, and Bootstrap, allowing customers to visualize changes in real time and significantly reducing the time required to finalize printed and digital newsletters.
 
-- Created Docker containers for all SQL/NoSQL databases and message queues to speed up the development process and environment setup for remote teams. (Docker, batch/bash scripting)
+- Containerized all SQL, NoSQL (MongoDB), and RabbitMQ message queue environments using Docker, automating setup with Bash scripts to streamline local development and onboarding for remote teams.
+
 
 <div>
   <div style="display: inline-block; text-align: right; width: 35%; float: right;">
     <code>September 2016 - January 2019</code>
   </div>
   <div style="display: inline-block; width: 65%; text-align: left; font-weight: bold; float: left;">
-    BHD León Bank
+    BHD Bank
   </div>
   <div style="display: block; width: 100%; text-align: left; font-size: 0.9em;">
     Dominican Republic
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
-  	Back-End Developer
+  	Back-End Engineer
 	</div>
 </div>
 
-- Implemented a file upload feature to add up to 5,000 records to the bank's payment system in less than 10 seconds (average). This feature included the interoperability between backend RESTful API services, relational databases, and legacy systems. (Java EE7, OracleDB 12c, IBM Integration Bus).
+- Implemented a bulk file upload feature using Java EE and Oracle DB capable of processing up to 5,000 payment records in under 10 seconds on average, orchestrating interoperability between RESTful API services, relational database operations, and legacy AS400 systems via IBM Integration Bus as the message broker to facilitate communication across legacy infrastructure, with source code version controlled via IBM RTC.
 
-- Developed reports export feature based on 10,000+ customers transactions in seconds. (Java EE7, OracleDB 12c, Jasper Reports, HTML/CSS).
+- Developed a transaction reporting export feature using Java EE and Oracle DB, leveraging Jasper Reports to generate PDF, CSV, and TXT formatted reports based on 10,000+ customer transactions in seconds, with HTML and CSS used for report styling and layout.
 
-- Led the development of a payment gateway by designing backend REST services, modules, and their interaction with databases, brokers, and legacy systems. (Java EE7 Rest APIs)
-
-<div>
-  <div style="display: inline-block; text-align: right; width: 30%; float: right;">
-    <code>June 2016 - September 2016</code>
-  </div>
-  <div style="display: inline-block; width: 70%; text-align: left; font-weight: bold; float: left;">
-    GBM Corporation
-  </div>
-  <div style="display: block; width: 100%; text-align: left; font-size: 0.9em;">
-    Dominican Republic
-  </div>
-  <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
-  	Software Engineer (internship)
-  </div>
-</div>
-
-
-<!-- #### Projects
-- **Go API** https://github.com/danielsantil/weather-api
-- **Angular app** https://github.com/danielsantil/weather-app -->
+- Led the development of a payment gateway, using Java EE REST API backend services and modules and defining their interactions with Oracle DB, message brokers, and legacy banking systems via IBM Integration Bus.
 
 
 #### Education
 <div>
   <div style="display: inline-block; text-align: right; width: 35%; float: right;">
-    <code>2013 - 2019</code>
+    <code>2019</code>
   </div>
   <div style="display: inline-block; width: 65%; text-align: left; font-weight: bold; float: left;">
-    B.S. in Computer Science
+    Bachelor's Degree in Computer Science
   </div>
   <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
   	Pontificia Universidad Catolica Madre y Maestra. Santo Domingo, Dominican Republic.
