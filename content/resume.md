@@ -14,7 +14,7 @@ slug: "resume"
 
 
 #### About
-9+ years developing efficient software applications for financial/banking and logistics industries, with a GTD mindset and always looking for improvement opportunities. 
+Senior Software Engineer with 9+ years of backend expertise in .NET, specializing in fintech, banking, and logistics systems — designing APIs, modernizing legacy systems, and building data-intensive pipelines. Full-stack contributor with production-level Angular and React experience. Thrives in remote and distributed team settings, consistently delivering reliable, well-tested software. Comfortable owning technical decisions independently while collaborating across time zones.
 
 
 #### Skills
@@ -127,8 +127,9 @@ slug: "resume"
 
 - Engineered an automated data pipeline using .NET and Hangfire to fetch, normalize, and import third-party merchant data via SFTP into internal SQL Server stores, ensuring consistent and scheduled data synchronization across the platform.
 
-- Implemented SSO from scratch to enable third-party vendor login into the company's internal web portal using .NET.
-built proxy services integrated with external APIs to support merchant onboarding actions including business data lookup, address verification, and risk evaluation, using ASP.NET Core MVC and SQL Server.
+- Implemented SSO from scratch to enable third-party vendor login into the company's internal web portal using .NET
+
+- Built proxy services integrated with external APIs to support merchant onboarding actions including business data lookup, address verification, and risk evaluation, using ASP.NET Core MVC and SQL Server.
 
 - Developed payment facilitator onboarding services using ASP.NET Core MVC, Entity Framework Core, Azure Cosmos DB, and SQL Server, enabling facilitators to create new merchants, acquire POS products across multiple business locations, and integrate with external banks to support transactional operations via Docker-containerized deployments.
 
