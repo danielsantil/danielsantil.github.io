@@ -13,7 +13,7 @@ slug: "resume"
 
 
 #### About
-Senior Software Engineer with 9+ years of backend expertise in .NET, specializing in fintech, banking, and logistics systems. Full-stack contributor with production-level Angular and React experience. Experienced in modernizing legacy systems, designing microservices, and building distributed, data-intensive systems. Proven ability to independently own technical decisions and deliver reliable, well-tested software in fully remote teams.
+Senior Software Engineer with 9+ years of backend expertise in .NET and Java, specializing in fintech, banking, and logistics systems. Full-stack contributor with production-level Angular and React experience. Experienced in modernizing legacy systems, designing microservices, and building distributed, data-intensive systems. Proven ability to independently own technical decisions and deliver reliable, well-tested software in fully remote teams.
 
 
 #### Skills
@@ -25,7 +25,7 @@ Senior Software Engineer with 9+ years of backend expertise in .NET, specializin
 <code>ASP.NET Core</code> <code>.NET</code> <code>.NET Core</code> <code>Entity Framework</code> <code>Spring Boot</code> <code>Node.js</code> <code>Express.js</code> <code>Angular</code> <code>React</code> <code>Zustand</code> <code>Hangfire</code>
  
 **Cloud & Infrastructure:**
-<code>AWS</code> <code>Azure</code> <code>Azure Functions</code> <code>Azure Service Bus</code> <code>Azure CosmosDB</code> <code>Docker</code> <code>RabbitMQ</code>
+<code>AWS</code> <code>Azure</code> <code>Azure Functions</code> <code>AWS Lambda</code> <code>Azure Service Bus</code> <code>Azure CosmosDB</code> <code>Docker</code> <code>RabbitMQ</code>
  
 **Databases:**
 <code>SQL Server</code> <code>MySQL</code> <code>MongoDB</code> <code>NoSQL</code>
@@ -34,10 +34,32 @@ Senior Software Engineer with 9+ years of backend expertise in .NET, specializin
 <code>HTML</code> <code>CSS</code> <code>Bootstrap</code> <code>Tailwind</code>
  
 **Testing & Tooling:**
-<code>xUnit</code> <code>NUnit</code> <code>Git</code> <code>REST</code> <code>Microservices</code> <code>Agile/Scrum</code> <code>Code Review</code>
+<code>xUnit</code> <code>NUnit</code> <code>JUnit</code> <code>Mockito</code> <code>Git</code> <code>REST</code> <code>Microservices</code> <code>Agile/Scrum</code> <code>Code Review</code>
 
 
 #### Experience
+<div>
+  <div style="display: inline-block; text-align: right; width: 35%; float: right;">
+    <code>April 2025 – July 2025</code>
+  </div>
+  <div style="display: inline-block; width: 65%; text-align: left; font-weight: bold; float: left;">
+    CARFAX
+  </div>
+  <div style="display: block; width: 100%; text-align: left; font-size: 0.9em;">
+    Remote - Contractor
+  </div>
+  <div style="display: block; width: 100%; text-align: left; font-weight: bold; font-size: 0.9em; color: gray;">
+  	Back-End Engineer
+  </div>
+</div>
+
+- Engineered scheduled AWS Lambda functions in Java/Spring Boot to automate daily SFTP retrieval of transaction reports from third-party payment providers including Bank of America, Chase, PayPal, and Apple Pay, uploading processed files to AWS S3 for downstream consumption.
+
+- Built backend reporting services exposing daily transaction summaries, disputed charges, reimbursements, and reconciliation workflows, integrating data sourced from multiple payment providers into a unified view.
+
+- Wrote unit and integration tests using JUnit and Mockito, covering SFTP integration logic, data processing pipelines, and reporting service endpoints.
+
+
 <div>
   <div style="display: inline-block; text-align: right; width: 35%; float: right;">
     <code>May 2024 - March 2025</code>
