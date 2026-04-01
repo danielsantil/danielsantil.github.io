@@ -77,7 +77,7 @@ Senior Software Engineer with 9+ years of backend expertise in .NET and Java, sp
 
 - Implemented new backend services in Go and MySQL to facilitate the company's migration to a new internal platform, designing RESTful APIs and data models to support the transition while maintaining compatibility with existing systems hosted on AWS.
 
-- Designed and built a data migration pipeline using Bash, Go, MySQL, and MongoDB to process and consolidate 50GB+ of public advertising inventory data from multiple external vendors into the company's unified internal database systems.
+- Designed and built a data migration pipeline using Bash, Go, Python, MySQL, and MongoDB to process and consolidate 50GB+ of public advertising inventory data from multiple external vendors into the company's unified internal database systems.
 
 - Maintained and enhanced existing backend services using Node.js and Express.js with MySQL, resolving bugs across the platform and improving the reliability of out-of-home (OOH) advertising campaign creation workflows.
 
