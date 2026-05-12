@@ -103,7 +103,7 @@ Senior Software Engineer with 9+ years of backend expertise in .NET and Java, sp
   </div>
 </div>
 
-- Led backend development for the migration of a legacy monolith API to a microservices architecture using .NET Core and SQL Server deployed on Azure, redesigning the system to independently manage shipments and voyages with improved scalability and maintainability.
+- Contributed extensively to the migration of a legacy monolith API to a microservices architecture using .NET Core and SQL Server deployed on Azure, redesigning the system to independently manage shipments and voyages with improved scalability and maintainability.
 
 - Established a robust testing suite with xUnit, Docker, and Testcontainers to spin up isolated, production-ready database environments for both unit and integration tests.
 
