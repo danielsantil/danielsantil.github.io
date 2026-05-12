@@ -133,7 +133,7 @@ Senior Software Engineer with 9+ years of backend expertise in .NET and Java, sp
 
 - Designed and built an automated data pipeline using .NET and Hangfire to fetch, normalize, and import third-party merchant data via SFTP into internal SQL Server stores, ensuring consistent and scheduled data synchronization across the platform.
 
-- Wrote unit and integration tests using NUnit, covering APIs, services, and SQL operations across the reporting and onboarding surface area.
+- Wrote unit and integration tests using xUnit, covering APIs, services, and SQL operations across the reporting and onboarding surface area.
 
 - Implemented SAML-based SSO to enable third-party vendor login into the company's internal web portal using .NET.
 
