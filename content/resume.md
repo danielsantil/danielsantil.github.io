@@ -83,9 +83,9 @@ Senior Software Engineer with 9+ years of backend expertise in .NET and Java, sp
 
 - Built optimized Node.js/Express.js API services with MySQL, reducing inventory and campaign data preview load times by 90% through query optimization and efficient data pipelines.
 
-- Migrated a legacy Vue.js/Nuxt.js UI codebase — originally developed by an offshore team and no longer actively maintained — to a modern platform built with React, Vite, Zustand, and Tailwind CSS, deployed on AWS, enabling the in-house team to own, maintain, and extend the frontend with a stack they were proficient in.
+- Migrated a legacy Vue.js/Nuxt.js frontend, originally built by an offshore team and largely unmaintained, to a modern stack using React, Vite, Zustand, and Tailwind CSS deployed on AWS. This gave the in-house team full ownership of a codebase they could actually work with.
 
-- Built modular React UI components supporting the full advertising lifecycle for 200+ campaigns/year, 2,200+ clients, 650+ billboard vendors, and 10,000+ inventory units — while streamlining campaign creation and editing, enabling inventory data uploads via file imports, and facilitating client contract management.
+- Built modular React UI components covering the full advertising lifecycle across 200+ campaigns/year, 2,200+ clients, 650+ billboard vendors, and 10,000+ inventory units, including campaign creation and editing flows, file-based inventory uploads, and client contract management.
 
 
 <div>
@@ -137,9 +137,9 @@ Senior Software Engineer with 9+ years of backend expertise in .NET and Java, sp
 
 - Implemented SAML-based SSO to enable third-party vendor login into the company's internal web portal using .NET.
 
-- Built proxy services using ASP.NET Core MVC and SQL Server to integrate with external data provider APIs, enabling business data lookup, address verification, and risk evaluation within a single onboarding flow — eliminating the need for agents to switch between multiple systems and reducing friction during customer onboarding.
+- Built proxy services using ASP.NET Core MVC and SQL Server to integrate with external data provider APIs, enabling business data lookup, address verification, and risk evaluation within a single onboarding flow. This removed the need for agents to switch between multiple systems and reducing friction during customer onboarding.
 
-- Developed end-to-end merchant and payment facilitator onboarding services using ASP.NET Core MVC, Entity Framework Core, Azure Cosmos DB, and SQL Server — enabling facilitators to create merchants, acquire POS products across multiple locations, and integrate with third-party banking platforms including FirstData and Elavon, with Hangfire orchestrating background tasks including data synchronization between Cosmos DB and SQL Server.
+- Developed end-to-end onboarding services for merchants and payment facilitators using ASP.NET Core MVC, Entity Framework Core, Azure Cosmos DB, and SQL Server. The system let facilitators create merchants, acquire POS products across multiple locations, and connect with third-party banking platforms like FirstData and Elavon, with Hangfire handling background tasks including data synchronization between Cosmos DB and SQL Server.
 
 
 <div>
